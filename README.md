@@ -1,7 +1,5 @@
 # Phishing para captura de senhas do Facebook
 
-## Esse é um desafio de projeto proposto pelo "Santander Bootcamp Cibersegurança #2" em parceria com a DIO.
-
 ### Ferramentas
 
 - Kali Linux
